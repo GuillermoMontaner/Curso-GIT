@@ -6,6 +6,9 @@ public class GestionVersiones {
 		System.out.println("Hola Muncdo");
 		int variable =0;
 		//Comentario
+		if (variable==0) {
+			System.out.println("Enta en el IF");
+		}
 	}
 
 }
